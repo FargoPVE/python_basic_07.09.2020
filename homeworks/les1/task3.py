@@ -11,4 +11,4 @@ elif user_number >= 100 and user_number < 1000:
 else:
     print("Ваше число слишком большое, выберите другое")
 sum_of_numbers = user_number + first_number + second_number
-print("Новое число:", sum_of_numbers)
+print("Полученное число:", sum_of_numbers)
